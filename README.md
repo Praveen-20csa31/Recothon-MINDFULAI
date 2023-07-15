@@ -1,1 +1,1 @@
-# Recothon-MINDFULAI
+# RECKATHON'23
